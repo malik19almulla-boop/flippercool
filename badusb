@@ -1,6 +1,0 @@
-DELAY 500
-REM Open ElectroBOOM YouTube Channel in Microsoft Edge
-GUI r
-DELAY 300
-STRING microsoft-edge:https://www.youtube.com/@ElectroBOOM
-ENTER
